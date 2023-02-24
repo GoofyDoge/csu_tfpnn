@@ -1,4 +1,4 @@
-# csu_tfpnn
+# CSU_TFPNN
 Traffic Flow Prediction using BP Neural Network Project for CPSC 4176 (Columbus State University)
 
 Start of our code for our group project.
